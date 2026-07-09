@@ -40,7 +40,7 @@
 
 ## 📫 Connect
 
-- LinkedIn: https://www.linkedin.com/in/srinivaskalikiri
+- LinkedIn: http.linkedin.com/in/srinivas-kalikiri-9799a62a4
 - Email: kalikirisrinivas13@gmail.com
 
 > Keep learning. Keep building. Let your projects speak for your skills.
