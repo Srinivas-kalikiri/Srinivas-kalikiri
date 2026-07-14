@@ -9,7 +9,7 @@
 
 I'm **Srinivas Kalikiri**, a Biotechnology graduate (B.Tech, 2026) working as a self-taught software developer. My foundation is strong in **Python and SQL**, backed by real projects — a natural-language-to-SQL query generator, bioinformatics analysis tools, and an AI-powered CSV importer currently in development using **Next.js, Node/Express, and Google's Gemini API**.
 
-I'm new to GitHub as a platform, but not new to solving problems with code. I bring the same rigor from scientific research — careful testing, clear documentation, structured thinking — into every project I build, and I'm actively expanding into full-stack web development.
+I'm a fresher, but not new to solving problems with code. I bring the same rigor from scientific research — careful testing, clear documentation, structured thinking — into every project I build, and I'm actively expanding into full-stack web development.
 
 ---
 
